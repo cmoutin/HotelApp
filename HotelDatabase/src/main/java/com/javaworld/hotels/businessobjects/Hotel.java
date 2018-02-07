@@ -57,7 +57,7 @@ public class Hotel {
 	 * @param address The address to set.
 	 */
 	public void setAddress(String address) {
-		this.address = address;
+		//this.address = address;
 	}
 	/**
 	 * @return Returns the city.
